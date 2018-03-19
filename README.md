@@ -36,7 +36,7 @@ as the ability text. To use this ability for my character, in the chat box, I wo
 
 # Nesting Abilities
 
-I discovered that abilities can be nested as well. My character has an ability that grants him a bonus to investigation in special situations, which I have called 'ward'. In the text of the ability, I have `%{my character|investigation} + 2`. So now if I type `%ward in the chat box`, it will roll, add my usual investigation bonus, and then my +2 bonus for the special situation.
+I discovered that abilities can be nested as well. My character has an ability that grants him a bonus to investigation in special situations, which I have called 'ward'. In the text of the ability, I have `%{my character|investigation} + 2`. So now if I type `%ward` in the chat box, it will roll, add my usual investigation bonus, and then my +2 bonus for the special situation.
 
 # Conclusion
 
