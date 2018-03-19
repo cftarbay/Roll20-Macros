@@ -1,6 +1,6 @@
 # Intro
 
-This file contains some macros I wrote for the popular tabletop site, roll20.net, for a game of Fate I'm involved with. First of all are simple ones, which just cut down on the amount of typing.
+This file contains some macros I wrote for the popular tabletop site, roll20.net, for a game of Fate I'm involved with. Macros can be typed into the chat box, and execute built-in commands in roll20's api. First of all are simple ones, which just cut down on the amount of typing.
 
 You will also find in this repo a pdf manual I wrote to aid in the creation of simple macros and abilities for other players in my game who may not know how to code at all. I found the documentation on roll20 and elsewhere on the internet to be lacking, so this was my solution, so others in my game could easily use these shortcuts.
 
